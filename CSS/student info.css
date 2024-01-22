@@ -1,0 +1,36 @@
+html{
+    background-color: #5ab6b6;
+    width: 800px;
+    padding: 50px;
+    margin: auto;
+    border-radius:10px ;
+    box-shadow:18px 10px 18px 590px #cb5529;
+
+
+}
+.legend{
+    font-size:30px ;
+    font-family:"Algerian";
+    font-weight: bolder;
+    color:darkgreen ;
+    font-kerning: auto;
+}
+input[type=text],input[type=email],input[type=password]{
+    width: 50%;
+    height:20px;
+    border-radius:10px ;
+    background-color: greenyellow;
+    padding-left:20px ;
+    font-family:Chiller ;
+}
+button{width:100px ;
+    height:40px ;
+    background-color: darkseagreen;
+    margin-left:170px ;
+    border-radius:10px ;
+
+
+}
+button:hover{
+    background-color: darkred;
+}

@@ -1,0 +1,73 @@
+form{
+    background-color: cyan;
+    width: 30%;
+    padding-right:0px ;
+    padding: 10px;
+    margin: auto;
+    border-radius:20px;
+    align-self: baseline;
+}
+
+
+legend{
+    text-align: center;
+    font-size:20px ;
+    text-underline-color:black ;
+}
+
+
+button{
+    text-align: center;
+    padding:5px ;
+    padding-right:10px ;
+    background-color: #15e315;}
+
+button1{
+    text-align: center;
+    padding:5px ;
+    padding-right:10px ;
+    background-color: #543fd3;
+    border-radius:2px;
+    border-style: solid;
+}
+
+
+
+
+button:hover{background-color: #d31ee1;}
+
+button1:hover{background-color: darkred;}
+
+
+
+
+c
+
+#pname{
+    width:50% ;
+    height:10% ;}
+
+#sdate{
+    width:50% ;
+    height:10% ;}
+
+#edate{
+    width:50% ;
+    height:10% ;}
+
+#ano{width:50% ;
+    height: 10%;}
+
+label{
+    width: 150px;
+    display:inline-block ;}
+
+
+
+
+
+
+
+
+
+

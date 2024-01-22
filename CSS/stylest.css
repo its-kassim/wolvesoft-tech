@@ -1,0 +1,27 @@
+#main{
+    display: grid;
+    padding-left:30px ;
+}
+
+.hi{
+    display: flex;
+}
+
+img{
+    width: 20%;
+    height: 200px;
+}
+.p{
+    margin-bottom:30px ;
+    margin-left:20px ;
+}
+html{
+    background:url("fan/th (3).jpg");
+    background-size: cover;
+}
+
+
+
+
+
+

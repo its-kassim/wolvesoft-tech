@@ -1,0 +1,24 @@
+h1{DIVISIONS}
+
+
+p{
+    font-size:20px ;
+    background-color: cornsilk;
+    font-weight: bold;
+}
+.division1{
+    background-color: #b30d92;
+}
+.division2{
+    background-color: crimson;
+}
+.division3{
+    background-color: cyan;
+}
+.division4{
+    background-color: darkgreen;
+}
+#main{
+    background-color: darkred;
+    display: flex;
+}
